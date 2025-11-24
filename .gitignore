@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+__pycache__/
+
+# Variables de entorno (SECRETO)
+.env
+
+# Datos (Opcional: si no quieres subir el csv con nombres reales al repo público)
+data/
+*.csv
+.ipynb_checkpoints
